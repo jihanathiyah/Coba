@@ -1,2 +1,5 @@
 # Coba
-Membuat peta web flores timur
+Menampilkan peta web Flores Timur
+
+## Pages
+[https://jihanathiyah.github.io/Coba/](https://jihanathiyah.github.io/Coba/)
